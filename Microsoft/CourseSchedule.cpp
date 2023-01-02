@@ -69,7 +69,3 @@ public:
   
 };
 
-// Time Complexity: O(N+E)
-// Space Complexity: O(2N) [vis array, dfsv array]
-// Auxiliary Space complexity: O(N) [recursion call of dfs]
-
