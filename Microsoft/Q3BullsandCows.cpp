@@ -19,6 +19,7 @@
 // Input: secret = "1123", guess = "0111"
 // Output: "1A1B"
 
+
 class Solution {
 public:
     string getHint(string secret, string guess) 
