@@ -10,7 +10,6 @@
 // There will not be any division by zero.
 // The input represents a valid arithmetic expression in a reverse polish notation.
 // The answer and all the intermediate calculations can be represented in a 32-bit integer.
- 
 
 // Example 1:
 
