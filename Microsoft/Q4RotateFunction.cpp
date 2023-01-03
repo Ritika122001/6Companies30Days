@@ -6,7 +6,6 @@
 // Return the maximum value of F(0), F(1), ..., F(n-1).
 // The test cases are generated so that the answer fits in a 32-bit integer.
 // Example 1:
-
 // Input: nums = [4,3,2,6]
 // Output: 26
 // Explanation:
