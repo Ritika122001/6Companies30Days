@@ -6,7 +6,7 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 
 # Challenge Company 1 : Microsoft
 
-| Questions                                   | Second Header                                                                       |
+| Questions                                   | Link                                                                                 |
 | --------------------------------------------| ------------------------------------------------------------------------------------|
 |1.Evaluate Reverse Polish Notation           | https://leetcode.com/problems/evaluate-reverse-polish-notation/                     |
 |2.Combination Sum III                        | https://leetcode.com/problems/combination-sum-iii/                                  |
