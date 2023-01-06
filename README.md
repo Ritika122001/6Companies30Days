@@ -31,3 +31,4 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |1.Max Points on a Line                       | https://leetcode.com/problems/max-points-on-a-line/                                 |
 |2.Valid Square                               | https://leetcode.com/problems/valid-square/                                         |
 |3.Factorial with Trailing Zeroes             | https://leetcode.com/problems/factorial-trailing-zeroes/                            |
+|4.Number of Boomerangs                       | https://leetcode.com/problems/number-of-boomerangs                                  |
