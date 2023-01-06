@@ -23,3 +23,11 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |13.Airplane Seat Assignment Probability      | https://leetcode.com/problems/airplane-seat-assignment-probability/                 |
 |14.Deletions to make an array divisible.     | https://leetcode.com/problems/minimum-deletions-to-make-array-divisible             |  
 |15.Substrings containing all three Characters| https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/ |
+
+# Challenge Company 2 : Goldman Sachs
+
+| Questions                                   | Link                                                                                 |
+| --------------------------------------------| ------------------------------------------------------------------------------------|
+|1.Max Points on a Line                       | https://leetcode.com/problems/max-points-on-a-line/                                 |
+|2.Valid Square                               | https://leetcode.com/problems/valid-square/                                         |
+|3.Factorial with Trailing Zeroes             | https://leetcode.com/problems/factorial-trailing-zeroes/                            |
