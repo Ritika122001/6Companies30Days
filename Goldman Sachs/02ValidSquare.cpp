@@ -32,7 +32,6 @@ public:
                 int x = pow((pts[j][0] - pts[i][0]) ,2);
                 int y = pow((pts[j][1] - pts[i][1]) ,2);
                 int sq = (x+y);
-                // mp[sq]++;
                 st.insert(sq);
             
         }
