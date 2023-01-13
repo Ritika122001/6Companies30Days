@@ -44,3 +44,15 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |14.Nice Pairs in Array                       | https://leetcode.com/problems/count-nice-pairs-in-an-array/                         |
 |15.Good People based on Statements           | https://leetcode.com/problems/maximum-good-people-based-on-statements/              |
 
+# Challenge Company 3 : Adobe
+
+| Questions                                         | Link                                                                                        |
+| --------------------------------------------------| --------------------------------------------------------------------------------------------|
+|1.Fraction to a recurring Decimal                  | https://leetcode.com/problems/fraction-to-recurring-decimal                                 |
+|2.Increasing Triplet Sequence                      | https://leetcode.com/problems/increasing-triplet-subsequence/                               |
+|3.Kth smallest in Lexographical Order              | https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/                       |
+|4.Magical String                                   | https://leetcode.com/problems/magical-string/                                               |
+|5.Non Negative Integers without consecutive ones   | https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/               |
+|6.Knight in a Chessboard                           | https://leetcode.com/problems/knight-probability-in-chessboard/                             |
+|7.Matching Subsequences                            | https://leetcode.com/problems/number-of-matching-subsequences/                              |
+
