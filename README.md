@@ -65,5 +65,26 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |15. Kth smallest Trimmed number                    | https://leetcode.com/problems/query-kth-smallest-trimmed-number/                            | 
 
 
+# Challenge Company 4 : Flipkart
+
+| Questions                                         | Link                                                                                                      |
+| --------------------------------------------------| ----------------------------------------------------------------------------------------------------------|
+|1.Partition to K Equal Sum Subsets                 | https://leetcode.com/problems/partition-to-k-equal-sum-subsets/                                           |
+|2.Sale and Offers at Flipkart BBD                  | https://leetcode.com/problems/shopping-offers/                                                            |
+|3.Remove Zero Sum Consecutive Nodes                | https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list                          |
+|4.Winner of the Game                               | https://leetcode.com/problems/find-the-winner-of-the-circular-game/                                       |
+|5.Finding the Mountain Array                       | https://leetcode.com/problems/find-in-mountain-array/                                                     |
+|6.Number of ways to seprate Numbers                | https://leetcode.com/problems/number-of-ways-to-separate-numbers/                                         |
+|7.City With the Smallest Number of Neighbors       | https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance |       
+|8 Closest Primes in Range                          | https://leetcode.com/problems/closest-prime-numbers-in-range/                                             |
+|9. Top K frequent Words                            | https://leetcode.com/problems/top-k-frequent-words/                                                       |
+|10 Distant Barcodes                                | https://leetcode.com/problems/distant-barcodes/                                                           |
+|11.The new game to Play                            | https://leetcode.com/problems/new-21-game/                                                                |
+|12.Check If a String contains all binary code of size K| https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes                                 |
+|13. Max Area of Island                             | https://leetcode.com/problems/max-area-of-island/https://leetcode.com/problems/max-area-of-island/        |
+|14. Custom String Sorting                          | https://leetcode.com/problems/custom-sort-string/                                                         |
+|15. House Robber                                   | https://leetcode.com/problems/house-robber-iii/                                                           | 
+
+
 
 
