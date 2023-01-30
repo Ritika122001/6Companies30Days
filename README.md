@@ -106,6 +106,25 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |15. Max Compatibility Score                        | https://leetcode.com/problems/maximum-compatibility-score-sum                                             | 
 
 
+# Challenge Company 6 : Amazon
+
+| Questions                                         | Link                                                                                                      |
+| --------------------------------------------------| ----------------------------------------------------------------------------------------------------------|
+|1.Shuffle an array                                 | https://leetcode.com/problems/shuffle-an-array/                                                           |
+|2.Cheapest Flights with K stops                    | https://leetcode.com/problems/cheapest-flights-within-k-stops/                                            |
+|3.Split String into max number of UniqueSubstrings | https://leetcode.com/problems/split-a-string-into-the-max-number-of-unique-substrings/                    |
+|4.Tweet Count per Frequency                        | https://leetcode.com/problems/tweet-counts-per-frequency/                                                 |
+|5.Maximum sum of hourglass                         |https://leetcode.com/problems/maximum-sum-of-an-hourglass                                                  |
+|6.Maximum Subarray Min Product                     | https://leetcode.com/problems/maximum-subarray-min-product/                                               |
+|7.Dota2 Senate                                     | https://leetcode.com/problems/dota2-senate/                                                               |       
+|8 Destroying Asteroids                             |https://leetcode.com/problems/destroying-asteroids/                                                        |
+|9.Most Popular Video Creator                       | https://leetcode.com/problems/most-popular-video-creator/                                                 |
+|10 Number of Matching Subsequences                 | https://leetcode.com/problems/number-of-matching-subsequences/                                            |
+|11.Number of ways to reach a position              | https://leetcode.com/problems/number-of-ways-to-reach-a-position-after-exactly-k-steps/                   |
+|12.Maximum Length of Repeated Subarray             | https://leetcode.com/problems/maximum-length-of-repeated-subarray/                                        |
+|13.Top K frequent words                            | https://leetcode.com/problems/top-k-frequent-words/                                                       |
+|14.Last Moment before all ants Fall out            | https://leetcode.com/problems/last-moment-before-all-ants-fall-out-of-a-plank/                            |
+|15.Generate Random point in a circle               | https://leetcode.com/problems/generate-random-point-in-a-circle                                           | 
 
 
 
