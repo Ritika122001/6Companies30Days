@@ -85,6 +85,27 @@ For complete details about the Challenge , go through the video (in Hindi) : htt
 |14. Custom String Sorting                          | https://leetcode.com/problems/custom-sort-string/                                                         |
 |15. House Robber                                   | https://leetcode.com/problems/house-robber-iii/                                                           | 
 
+# Challenge Company 5 : Google
+
+| Questions                                         | Link                                                                                                      |
+| --------------------------------------------------| ----------------------------------------------------------------------------------------------------------|
+|1.Maximum Consecutive Floors Without Special Floors| https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors                           |
+|2.Maximum Good People Based on Statements          | https://leetcode.com/problems/maximum-good-people-based-on-statements/                                    |
+|3.Sort an array                                    | https://leetcode.com/problems/sort-an-array/                                                              |
+|4.Fruit into Baskets                               | https://leetcode.com/problems/fruit-into-baskets/                                                         |
+|5.Number of Closed Islands                         | https://leetcode.com/problems/number-of-closed-islands                                                    |
+|6.Distinct Echo Substrings                         | https://leetcode.com/problems/distinct-echo-substrings/                                                   |
+|7.K divisible Array Substrings                     | https://leetcode.com/problems/k-divisible-elements-subarrays/                                             |       
+|8 Random Pick with Weight                          | https://leetcode.com/problems/random-pick-with-weight/                                                    |
+|9.Maximum Numbers of Coins you can get             | https://leetcode.com/problems/maximum-number-of-coins-you-can-get/                                        |
+|10 Network Delay Time                              | https://leetcode.com/problems/network-delay-time/                                                         |
+|11.Matrix Block Sum                                | https://leetcode.com/problems/matrix-block-sum                                                            |
+|12.Restore IP Addresses                            | https://leetcode.com/problems/restore-ip-addresses/                                                       |
+|13.Swim in rising Water                            | https://leetcode.com/problems/swim-in-rising-water/                                                       |
+|14. Strictly Palindromic Number                    | https://leetcode.com/problems/strictly-palindromic-number                                                 |
+|15. Max Compatibility Score                        | https://leetcode.com/problems/maximum-compatibility-score-sum                                             | 
+
+
 
 
 
